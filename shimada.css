@@ -1,0 +1,79 @@
+
+
+
+
+.header{
+	height: 70px;
+	background-color: gold;
+	margin-top: 0px;
+}
+
+.main{
+	/*height: 1500px;*/
+	/*background-color: black;*/
+	text-align: center;
+		background-image: url("rizap.jpg") ;
+		background-repeat: repeat;	
+		background-position:-100px 1500px;
+}
+
+.content{
+	/*height: 800px;*/	
+	
+	color: silver;
+	text-align: center;
+
+
+}
+.intro {
+	margin-top: 0px;
+}
+
+.content p {
+	margin: 10px 0;
+}
+
+.footer {
+	height: 60px;
+	background-color: gold;
+	text-align:center;
+}
+.jun{ 
+	width:40px;
+	height:40px;
+
+}
+.line{
+	width: 40px;
+	height: 40px;
+}
+.twitter{
+	width: 40px;
+	height: 40px;
+}
+
+
+
+
+p{
+	font-size:30px;
+	color:lime;
+	font-family:impact;
+	font-weight: bold;
+
+}
+
+
+
+h2{
+
+	font-size:50px;
+	margin-bottom:100px;
+	color: lime;
+	font-family:Franklin Gothic Medium ;
+
+}
+
+
+
+
